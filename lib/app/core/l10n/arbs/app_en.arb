@@ -1,0 +1,35 @@
+{
+    "dimensionalData":"Dimensional Data",
+    "errorList": "Strongly protected database ...",
+    "tryAgain": "Rick again",
+    "loading": "Ricking the Citadel’s files",
+    "loadingMorePersonas": "Analyzing Multiverse...",
+    "human": "Human",
+    "alien": "Alien",
+    "humanoid": "Humanoid",
+    "robot": "Robot",
+    "unknown": "Unknown",
+    "poopyButtHole": "Poopy Butt Hole",
+    "mythologicalCreature": "Mythological Creature",
+    "animal": "Animal",
+    "cronenberg": "Cronenberg",
+    "disease": "Disease",
+    "notCataloged": "Not Cataloged",
+    "alive":"Alive",
+    "dead": "Dead",
+    "vitalStatus": "Life Status",
+    "biologicalClassification": "Biological Classification",
+    "interdimensionalEntity": "Interdimensional Creature #{id}",
+    "@interdimensionalEntity": {
+        "description": "Interdimensional Creature #{id}",
+        "placeholders":{
+            "id":{
+                "type": "String"
+            }
+        }
+    },
+     "openDimensionalPortal":"Open Dimensional Portal",
+    "portalGunFunnyError":"Device does not have enough RAM for this task",
+    "detonateNeutrinoBomb": "Detonate Neutrino Bomb",
+    "detonateFunnyError": "Unfortunately, Rick Prime used the bomb first.."
+}

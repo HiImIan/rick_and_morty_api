@@ -1,0 +1,35 @@
+{
+    "dimensionalData":"Arquivo Interdimensional",
+    "errorList": "Base de dados fortemente protegida...",
+    "tryAgain": "Rickear Novamente!",
+    "loading": "Rickeando arquivos da Cidadela!",
+    "loadingMorePersonas": "Analisando Multiverso...",
+    "human": "Humano(a)",
+    "alien": "Alienígena",
+    "humanoid": "Humanoide",
+    "robot": "Robô",
+    "unknown": "Desconhecido",
+    "poopyButtHole": "Bunda Cagada",
+    "mythologicalCreature": "Criatura Mitológica",
+    "animal": "Animal",
+    "cronenberg": "Cronenberg",
+    "disease": "Doença",
+    "notCataloged": "Não Catalogado",
+    "alive":"Vivo(a)",
+    "dead": "Morto(a)",
+    "vitalStatus": "Status Vital",
+    "biologicalClassification": "Classificação Biológica",   
+    "interdimensionalEntity": "Ser Interdimensional #{id}",
+    "@interdimensionalEntity": {
+        "description": "Ser Interdimensional #{id}",
+        "placeholders":{
+            "id":{
+                "type": "String"
+            }
+        }
+    },
+    "openDimensionalPortal":"Abrir portal Dimensional",
+    "portalGunFunnyError":"Dispositivo sem RAM suficiente para essa tarefa",
+    "detonateNeutrinoBomb": "Lançar uma Bomba de Neutrinos",
+    "detonateFunnyError": "Infelizmente Rick Prime usou a bomba antes..."
+}
