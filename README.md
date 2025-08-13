@@ -1,6 +1,6 @@
 # rick_and_morty_api
 
-A new Flutter project.
+A MVVM Aplication In Flutter
 
 ## Getting Started
 
